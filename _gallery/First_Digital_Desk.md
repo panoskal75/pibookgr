@@ -4,4 +4,3 @@ caption: The first augmented desk system, the DigitalDesk, was built in the earl
 title:First_Digital_Desk
 categories:
   - synthesis
- 
