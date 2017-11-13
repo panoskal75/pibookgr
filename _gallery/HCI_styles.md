@@ -5,5 +5,9 @@ title: HCI_styles
 categories:
   - archetypes
 ---
+tags:
+  - GUI
+  - Virtual Reality
+---
 
 
