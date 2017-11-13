@@ -4,4 +4,8 @@ caption: Rekimoto's comparison of HCI styles (GUI, Virtual Reality, Ubiquitous C
 title: HCI_styles
 categories:
   - archetypes
+  - output-device
+tags:
+  - Ivan Shutherland
+  - Graphics
 ---
