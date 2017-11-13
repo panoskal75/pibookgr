@@ -9,5 +9,3 @@ tags:
   - GUI
   - Virtual Reality
 ---
-
-
