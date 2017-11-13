@@ -4,7 +4,6 @@ caption: Rekimoto's comparison of HCI styles.
 title: HCI_styles
 categories:
   - archetypes
-  - output-device
 tags:
   - GUI
   -  Virtual Reality
